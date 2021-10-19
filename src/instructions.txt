@@ -1,0 +1,28 @@
+Instructions
+
+Your task is to place runes on the board to turn the tiles underneath to gold. 
+To win you must turn the entire board into gold. 
+
+Runes can only be placed on empty tiles (brown or gold) and they must be placed 
+beside an existing rune. However they can only be placed beside runes with the 
+same colour and/or shape. If placing it between multiple other runes it must have
+the same colour and/or shape with each one.
+
+Discard Pile
+Runes are randomly chosen every turn from 26 different ones. If you can't place 
+that specific rune you can press the discard button to add it to the discard pile
+and another random rune will appear. However there is only space for three runes.
+After it is full placing another rune in the discard pile will be game over. But,
+after placing a rune, a spot from the discard pile is cleared. 
+
+Block Runes
+Blocks can be placed beside any rune(s) and any rune can be place beside existing
+block tiles. However, these still have to be connected to  an existing rune when 
+placing it. 
+
+Destroying Runes
+If a row or column is filled up with runes, then those runes will be destroyed
+leaving the gold tile underneath making room for other runes to be placed. 
+
+Use the reset button at the bottom to clear the board and play again.
+For more detailed instructions with examples please refer to the User Manual. 

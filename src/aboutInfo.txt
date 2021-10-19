@@ -1,0 +1,14 @@
+ About - ALCHEMY
+
+ This game was created in May 2019, by Xianhao Zhou 
+ including the design, programming, and testing. It 
+ was completed with help testing and problem-solving 
+ from friends. 
+				
+ If you have any questions about the game or how it 
+ was made you can contact me by email or phone. 
+ Also, please include any other comments or ideas to 
+ help me improve the game.
+				
+         Email: xianhao.zhou@student.tdsb.on.ca
+                      Phone: 416 - 123 - 9876
